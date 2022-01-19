@@ -5,7 +5,7 @@ class Database:
     def __init__(self):
         self.host = "localhost"
         self.user = "root"
-        self.pwd = "mpa0304029zawery"
+        self.pwd = ""
 
         self.name_db = "wdef"
         self.table_usr = "users"
